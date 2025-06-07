@@ -7,9 +7,7 @@ A basic recipe website
 
 ## View the project
 ```
-git clone https://github.com/vvorckai/odin-recipes.git
-cd odin-recipes
-open index.html
+https://vvorckai.github.io/odin-recipes/index.html
 ```
 
 ## Acknowledgements
